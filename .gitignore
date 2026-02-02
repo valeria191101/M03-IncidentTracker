@@ -1,0 +1,12 @@
+# Entorn Virtual
+.venv/
+env/
+venv/
+#Python cache
+__pycache__/
+*.pyc
+#Secrets i configuració local
+.env
+#IDEs
+.vscode/
+.idea/
