@@ -20,3 +20,4 @@ jobs:
         SECRET_KEY: ${{ secrets.DJANGO_SECRET_KEY }}
       run: |
         MOZ_HEADLESS=1 python manage.py test core.tests_selenium
+#forzar
